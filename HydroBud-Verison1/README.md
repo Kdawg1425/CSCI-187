@@ -1,4 +1,4 @@
-Version 1 (Might not run since I wasn't able to upload all node modules files)
+Version 1 (Might not run since I wasn't able to upload all node modules files) To see most of my work it is in pages folder.
 
 GO INTO THE HYDROBUD FOLDER BEFORE FOLLOWING THE STEPS BELOW (SAME README.FILE CAN BE FOUND IN THE HYDROBUD FOLDER)
 
