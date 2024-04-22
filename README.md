@@ -9,3 +9,5 @@ Front-End Web Development (Class Project)
 
 Created a product called HydroBud, a  microcontroller that monitored aquaponic systems while users were away. Developed the front-end of the website which allowed users to see current microcontroller readings. Developed the UI design and implementation using React, and Google Firebase for login, storage of devices, communication, and storage of data.
 
+Two Versions exist for different style looks.
+
